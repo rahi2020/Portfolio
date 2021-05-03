@@ -174,7 +174,8 @@ p{
     opacity: 0.7;
 }
 .sci li img:hover{
-    opacity: 1;
+    opacity: 10;
+    
 }
 
 
