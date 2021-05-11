@@ -327,8 +327,9 @@ p{
     opacity: 0;
     transition:0.5s;
 }
-.work .content .workBx:hover .textBx{
+.work .content .workBx .imgBx img:hover{
     opacity: 1;
+    transform: scale(1.1);
 }
 .work .content .workBx .textBx h3{
     color: #fff;
